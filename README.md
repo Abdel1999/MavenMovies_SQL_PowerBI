@@ -1,7 +1,6 @@
 # MavenMovies_SQL_PowerBI
 Creating Dashboard to vizualise product and customers trend 
 
-## PowerBI-SQL-Project
 
 ## Project Proposal
 Use SSMS and PowerBI to analyze product and customer data from the MavenMovie movie rental business.
