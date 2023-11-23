@@ -18,7 +18,9 @@ A. Download MavenMovie tables:
   4. Rental Lookup Table
   5. Staff Lookup Table
   
-B. Answering the different questions task using SQL  
+B. Answering the different questions task using SQL
+
 C. Import the tables into PowerBI via Power Query.
+
 D. Add relationships between tables to create a variety of visualiztions that provide an in-depth product and customer base summary. 
 
