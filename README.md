@@ -5,7 +5,7 @@ Creating Dashboard to vizualise product and customers trend
 ## Project Proposal
 Use SSMS and PowerBI to analyze product and customer data from the MavenMovie movie rental business.
 
-### Tools Used
+### Used tools
 - SQL Server Management Studio 19
 - PowerBI
 
