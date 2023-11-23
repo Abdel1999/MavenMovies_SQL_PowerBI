@@ -1,2 +1,24 @@
 # MavenMovies_SQL_PowerBI
-Create Dashboard to vizualise product and customers trend 
+Creating Dashboard to vizualise product and customers trend 
+
+## PowerBI-SQL-Project
+
+## Project Proposal
+Use SSMS and PowerBI to analyze product and customer data from the MavenMovie movie rental business.
+
+### Tools Used
+- SQL Server Management Studio 19
+- PowerBI
+
+## Methodology
+A. Download MavenMovie tables:
+  1. Payments Table
+  2. Customer Lookup Table
+  3. Product Lookup Table
+  4. Rental Lookup Table
+  5. Staff Lookup Table
+  
+B. Answering the different questions task using SQL  
+C. Import the tables into PowerBI via Power Query.
+D. Add relationships between tables to create a variety of visualiztions that provide an in-depth product and customer base summary. 
+
