@@ -1,5 +1,5 @@
 # MavenMovies_SQL_PowerBI
-Creating Dashboard to vizualise product and customers trends
+Creating Dashboard to visualize product and customers trends
 
 
 ## Project Proposal
