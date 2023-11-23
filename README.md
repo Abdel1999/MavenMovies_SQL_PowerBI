@@ -30,11 +30,13 @@ Use SSMS and PowerBI to analyze product and customer data from the MavenMovie mo
 <div style="text-align:center;">
   <img width="603" alt="Dash 1" src="https://github.com/Abdel1999/MavenMovies_SQL_PowerBI/assets/123161748/495f970d-857e-4905-819a-1949c9a812b4">
 </div>
+
 <div style="text-align:center;">
-  <img width="603" alt="Dash 1" src="https://github.com/Abdel1999/MavenMovies_SQL_PowerBI/assets/123161748/495f970d-857e-4905-819a-1949c9a812b4">
+  <img width="602" alt="Dash 2" src="https://github.com/Abdel1999/MavenMovies_SQL_PowerBI/assets/123161748/6e759fea-b080-430d-aaf0-f5edfad31bd8">
 </div>
+
 <div style="text-align:center;">
-  <img width="603" alt="Dash 1" src="https://github.com/Abdel1999/MavenMovies_SQL_PowerBI/assets/123161748/495f970d-857e-4905-819a-1949c9a812b4">
+<img width="603" alt="Dash 3" src="https://github.com/Abdel1999/MavenMovies_SQL_PowerBI/assets/123161748/b08c696d-922c-4397-907c-5585e10649df">
 </div>
 
 
