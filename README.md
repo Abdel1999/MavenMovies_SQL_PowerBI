@@ -10,16 +10,16 @@ Use SSMS and PowerBI to analyze product and customer data from the MavenMovie mo
 - PowerBI
 
 ## Methodology
-A. Download MavenMovie tables:
-  1. Payments Table
-  2. Customer Lookup Table
-  3. Product Lookup Table
-  4. Rental Lookup Table
-  5. Staff Lookup Table
+1. Download MavenMovie tables:
+  .* Payments Table
+  .* Customer Lookup Table
+  .* Product Lookup Table
+  .* Rental Lookup Table
+  .* Staff Lookup Table
   
-B. Answering the different questions task using SQL
+2. Answering the different questions task using SQL
 
-C. Import the tables into PowerBI via Power Query.
+3. Import the tables into PowerBI via import data connectivity mode.
 
-D. Add relationships between tables to create a variety of visualiztions that provide an in-depth product and customer base summary. 
+4. Add relationships between tables to create a variety of visualiztions that provide an in-depth product and customer base summary. 
 
